@@ -30,3 +30,6 @@ with a 40x40 nodes matrix (just 1600 instead of 500.00 samples), was obtained a 
 
 comparation with W choised randomly, where the KNN got just 41%.
 ![Alt text](./images/wramdon.png?raw=true "Title")
+
+# graph comparative som output vs real output
+![Alt text](./images/somVSreal.png?raw=true "Title")
