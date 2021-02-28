@@ -33,3 +33,7 @@ comparation with W choised randomly, where the KNN got just 41%.
 
 # graph comparative som output vs real output
 ![Alt text](./images/somVSreal.png?raw=true "Title")
+
+
+# MLP FOR SHADOW FAULT CLASSIFICATION IN PHOTOVOLTAIC MODULE 
+https://colab.research.google.com/drive/1E5u5mEaI7d9idc7lDHqyg0oeVx2t0YHi#scrollTo=nRMZvdTxrT5g
