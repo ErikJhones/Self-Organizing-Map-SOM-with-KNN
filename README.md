@@ -65,13 +65,13 @@ Data plots with the 2 first samples (Irr Icc)
 
 
 ## RESULTS
-with a 100x100 nodes matrix (just 10000 instead of 500.00 samples), was obtained a F1-score higher than 91%.
+with a 100x100 nodes matrix (just 10000 instead of 500.00 samples), was obtained a F1-score higher than 91%.  
 ![Alt text](./images/wdataset.png?raw=true "Title")
 
-comparation with W choised randomly, where the KNN got just 41%.
+comparation with W choised randomly, where the KNN got just 41%.  
 ![Alt text](./images/wramdon.png?raw=true "Title")
 
-Anf for all dataset, the result was 96% acc.
+Anf for all dataset, the result was 96% acc.  
 ![Alt text](./images/allds.png?raw=true "Title")
 
 ## graph comparative som output vs real output
